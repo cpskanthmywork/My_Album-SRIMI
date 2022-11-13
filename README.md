@@ -1,2 +1,3 @@
 # My_Album
-This project is all about my photography album. Which contains all my Individual or Group Images at one place.
+This project is all about my Wedding Photography album. Which contains all the memories.
+
